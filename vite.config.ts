@@ -27,6 +27,7 @@ export default defineConfig(({ mode }) => ({
         name: "Vitamin",
         short_name: "Vitamin",
         theme_color: "#BD34FE",
+        start_url: '.',
         icons: [
           {
             src: "/android-chrome-192x192.png",
